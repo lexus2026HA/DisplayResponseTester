@@ -1,0 +1,29 @@
+Display Response Tester v1.2 uses third-party software.
+
+The Windows x64 release contains Python 3.12.9, Qt 6.12.0, PySide6 and
+Shiboken6 6.12.0, NumPy 2.5.5, pySerial 3.5 and the PyInstaller 6.22.3 bootloader.
+See the licenses directory in the release bundle for the applicable texts.
+
+Qt and Qt for Python are used under LGPL-3.0. The distribution keeps the runtime
+libraries as separate files in _internal. Users may replace those libraries with
+compatible modified builds. The application license permits reverse engineering
+solely to debug modifications to the LGPL components as required by the LGPL.
+The PolyForm terms apply to the application's own code and original assets.
+
+Corresponding upstream sources:
+Qt 6.12.0 modules:
+https://download.qt.io/archive/qt/6.12/6.12.0/submodules/
+PySide6 and Shiboken6 6.12.0:
+https://download.qt.io/official_releases/QtForPython/pyside6/PySide6-6.12.0-src/
+Python:
+https://www.python.org/downloads/release/python-3129/
+NumPy:
+https://github.com/numpy/numpy/tree/v2.5.5
+pySerial:
+https://github.com/pyserial/pyserial/tree/v3.5
+PyInstaller:
+https://github.com/pyinstaller/pyinstaller/tree/v6.22.3
+
+OpenCV is used by the optional Orange Pi agent and automated tests.
+Its license is provided by the installed package and upstream project:
+https://github.com/opencv/opencv/blob/4.x/LICENSE

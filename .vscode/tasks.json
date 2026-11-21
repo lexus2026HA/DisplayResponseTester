@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Display Response Tester: Run",
+      "type": "process",
+      "command": "${workspaceFolder}/.venv/Scripts/pythonw.exe",
+      "args": ["${workspaceFolder}/main.py"],
+      "options": {"cwd": "${workspaceFolder}"},
+      "problemMatcher": []
+    }
+  ]
+}

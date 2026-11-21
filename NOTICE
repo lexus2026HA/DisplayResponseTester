@@ -1,0 +1,7 @@
+Required Notice: Copyright (c) 2026 Display Response Tester contributors
+
+Display Response Tester application code and its original SVG assets are offered under
+the PolyForm Noncommercial License 1.0.0. See LICENSE.
+
+Python, Qt, Qt for Python, Shiboken, NumPy, pySerial and other dependencies retain
+their own licenses. See THIRD-PARTY.txt for the Windows release components.

@@ -1,0 +1,2 @@
+# ARMv7: prefer Debian/Armbian's python3-opencv; pip wheels may be unavailable.
+opencv-python-headless>=4.6,<5

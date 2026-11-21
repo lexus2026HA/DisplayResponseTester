@@ -1,0 +1,12 @@
+{
+  "SKG:3418": {
+    "manufacturer": "GMNG",
+    "model": "GM-34C11W",
+    "panel": "VA",
+    "gtg_ms": 5,
+    "adaptive_sync": true,
+    "freesync": true,
+    "gsync_advertised": true,
+    "source": "https://gmng.ru/product/monitory-gmng-GM-34C11W-1880865/"
+  }
+}
